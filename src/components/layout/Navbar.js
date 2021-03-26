@@ -5,8 +5,8 @@ export class Navbar extends Component {
     return (
       <div>
         <nav className="navbar navbar-dark bg-dark">
-          <a class="navbar-brand" href='https://fuckoff.com'>
-            Navbar
+          <a className="navbar-brand" href='https://canihazdadjoke.com'>
+            More of dem Dad Jokes
           </a>
         </nav>
 

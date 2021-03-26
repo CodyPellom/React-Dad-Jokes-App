@@ -22,6 +22,7 @@ export default function Joke() {
       .then((res) => setJoke(res.data))
       .catch((err) => console.log(err));
   }
+
   return (
     <div>
       <div className="card text-white bg-dark mb-3">
