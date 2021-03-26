@@ -1,0 +1,17 @@
+.joke-container {
+    margin-top: 10vh;
+}
+body html {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-content: center;
+    align-items: center;
+}
+.creepy-dad-pic {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-content: center;
+    align-items: center;
+}
